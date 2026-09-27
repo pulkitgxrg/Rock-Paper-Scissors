@@ -2,7 +2,7 @@
 
 ![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue) ![Built with](https://img.shields.io/badge/Built_with-JavaScript-yellow)
 
-![Rock-Paper-Scissors-Mini-Game](https://socialify.git.ci/pulkitgarg04/Rock-Paper-Scissors-Mini-Game/image?font=Source+Code+Pro&language=1&name=1&owner=1&theme=Dark)
+![Rock-Paper-Scissors-Mini-Game](https://socialify.git.ci/pulkitgxrg/Rock-Paper-Scissors-Mini-Game/image?font=Source+Code+Pro&language=1&name=1&owner=1&theme=Dark)
 
 A dynamic and engaging Rock Paper Scissors game where players can compete against the computer, complete with a score tracking system.
 
@@ -21,7 +21,7 @@ A dynamic and engaging Rock Paper Scissors game where players can compete agains
 
 1. Clone or download the project:
   ```bash
-  https://github.com/pulkitgarg04/Rock-Paper-Scissors-Mini-Game.git
+  https://github.com/pulkitgxrg/Rock-Paper-Scissors-Mini-Game.git
   ```
 2. Open the folder.
 
